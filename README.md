@@ -7,7 +7,6 @@
     - Bash ⚙️
 
 <br>
-<br>
 
 ## 📈 GitHub Stats
 
